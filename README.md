@@ -1,15 +1,17 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="media/traveller-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="media/traveller-light.png">
-    <img alt="Traveller - Travelling Salesman Problem solved in Java." src="media/traveller-dark.png">
-  </picture>
+<p align="center">
+  <img src="media/traveller-logo.png" width="100" alt="Repository logo" />
+</p>
+<h3 align="center">Traveller</h3>
+<p align="center">Travelling Salesman Problem solved in Java<p>
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/lhbelfanti/traveller?label=Repo%20size" alt="Repo size" />
+    <img src="https://img.shields.io/github/license/lhbelfanti/traveller?label=License" alt="License" />
+</p>
 
-  <br />
+---
+# Traveller
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/traveller?style=for-the-badge)
-  ![License](https://img.shields.io/github/license/lhbelfanti/traveller?style=for-the-badge)
-</div>
+This repository contains an implementation of the Travelling Salesman Problem, written in Java.
 
 ---
 ## License
